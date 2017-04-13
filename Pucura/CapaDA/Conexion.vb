@@ -6,9 +6,9 @@ Public Class ConexionDA
     Public Shared conn As New SqlConnection
     Public Shared Function Conectado()
         Try
-            'con = New SqlConnection("Server=(local);Database=Proyecto;Trusted_Connection=True")
-            ' conn = New SqlConnection("Data Source=LJBLANCO\SQLSERVER2008;Initial Catalog=LocalCuadros;Integrated Security=True")            'Lidio
-            'conn = New SqlConnection("Data source=DESKTOP-RA5UK2L\SQLSERVER;initial catalog=LocalCuadros;integrated security=true")       'Cristian
+            '''''con = New SqlConnection("Server=(local);Database=Proyecto;Trusted_Connection=True")
+            ''''' conn = New SqlConnection("Data Source=LJBLANCO\SQLSERVER2008;Initial Catalog=LocalCuadros;Integrated Security=True")            'Lidio
+            ''''''conn = New SqlConnection("Data source=DESKTOP-RA5UK2L\SQLSERVER;initial catalog=LocalCuadros;integrated security=true")       'Cristian
             conn = New SqlConnection("Data source=(local);initial catalog=Pucara;integrated security=true") 'Sancho
             conn.Open()
             Return True
