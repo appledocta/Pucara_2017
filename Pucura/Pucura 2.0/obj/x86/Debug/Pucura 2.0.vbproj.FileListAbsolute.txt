@@ -47,3 +47,6 @@ C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug
 C:\Users\Sancho\Desktop\Proyecto_2017-master\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
 C:\Users\Sancho\Desktop\Proyecto_2017-master\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
 C:\Users\Sancho\Desktop\Proyecto_2017-master\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
+C:\Users\pc\Documents\GitHub\Pucara_2017\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\pc\Documents\GitHub\Pucara_2017\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\pc\Documents\GitHub\Pucara_2017\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
