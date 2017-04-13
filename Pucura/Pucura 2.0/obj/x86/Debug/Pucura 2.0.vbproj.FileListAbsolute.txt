@@ -1,0 +1,49 @@
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\bin\Debug\Pucura 2.0.exe
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\bin\Debug\Pucura 2.0.pdb
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\bin\Debug\Pucura 2.0.xml
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.Resources.resources
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.Menu.resources
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.vbproj.GenerateResource.Cache
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
+C:\Users\jmdif\Desktop\Pucara 2.0\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.frmCliente.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\bin\Debug\Pucura 2.0.exe
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\bin\Debug\Pucura 2.0.pdb
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\bin\Debug\Pucura 2.0.xml
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.Resources.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.frmCliente.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmUsuario.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.Menu.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmProveedores.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura 2.0.vbproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmLogin.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmListadoUsuarios.resources
+C:\Users\pc\Desktop\Pucura 2.0\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmMenu.resources
+C:\Users\Sancho\Documents\GitHub\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\Sancho\Documents\GitHub\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\Sancho\Documents\GitHub\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
+C:\Users\Sancho\Documents\GitHub\Proyecto2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\Sancho\Documents\GitHub\Proyecto2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\Sancho\Documents\GitHub\Proyecto2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\bin\Debug\Pucura 2.0.exe
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\bin\Debug\Pucura 2.0.pdb
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\bin\Debug\Pucura 2.0.xml
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.Resources.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.frmCliente.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmListadoUsuarios.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmLogin.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmMenu.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmUsuario.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.Menu.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura_2._0.FrmProveedores.resources
+C:\Users\pc\Documents\GitHub\Proyecto_2017\Pucura 2.1.3\Pucura 2.0\obj\x86\Debug\Pucura 2.0.vbproj.GenerateResource.Cache
+C:\Users\Sancho\Desktop\Proyecto_2017-master\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.exe
+C:\Users\Sancho\Desktop\Proyecto_2017-master\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.xml
+C:\Users\Sancho\Desktop\Proyecto_2017-master\Pucura\Pucura 2.0\obj\x86\Debug\Pucura 2.0.pdb
