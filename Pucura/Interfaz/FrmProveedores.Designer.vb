@@ -25,6 +25,8 @@ Partial Class FrmProveedores
         Me.GroupBox4 = New System.Windows.Forms.GroupBox()
         Me.btnBuscar = New System.Windows.Forms.Button()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
+        Me.cbInhabilitar = New System.Windows.Forms.CheckBox()
+        Me.cbHabilitar = New System.Windows.Forms.CheckBox()
         Me.lkNoexiste = New System.Windows.Forms.LinkLabel()
         Me.dgvListado = New System.Windows.Forms.DataGridView()
         Me.Eliminar = New System.Windows.Forms.DataGridViewCheckBoxColumn()
@@ -35,6 +37,7 @@ Partial Class FrmProveedores
         Me.btnEditar = New System.Windows.Forms.Button()
         Me.btnNuevo = New System.Windows.Forms.Button()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.txtMail = New System.Windows.Forms.TextBox()
         Me.txtCelular = New System.Windows.Forms.TextBox()
         Me.txtTelefono = New System.Windows.Forms.TextBox()
         Me.txtcod_postal = New System.Windows.Forms.TextBox()
@@ -51,9 +54,6 @@ Partial Class FrmProveedores
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnGuardar = New System.Windows.Forms.Button()
-        Me.txtMail = New System.Windows.Forms.TextBox()
-        Me.cbHabilitar = New System.Windows.Forms.CheckBox()
-        Me.cbInhabilitar = New System.Windows.Forms.CheckBox()
         Me.GroupBox4.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
         CType(Me.dgvListado, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -97,6 +97,26 @@ Partial Class FrmProveedores
         Me.GroupBox3.TabIndex = 8
         Me.GroupBox3.TabStop = False
         Me.GroupBox3.Text = "Listado"
+        '
+        'cbInhabilitar
+        '
+        Me.cbInhabilitar.AutoSize = True
+        Me.cbInhabilitar.Location = New System.Drawing.Point(154, 61)
+        Me.cbInhabilitar.Name = "cbInhabilitar"
+        Me.cbInhabilitar.Size = New System.Drawing.Size(103, 18)
+        Me.cbInhabilitar.TabIndex = 5
+        Me.cbInhabilitar.Text = "Inhabilitar"
+        Me.cbInhabilitar.UseVisualStyleBackColor = True
+        '
+        'cbHabilitar
+        '
+        Me.cbHabilitar.AutoSize = True
+        Me.cbHabilitar.Location = New System.Drawing.Point(16, 60)
+        Me.cbHabilitar.Name = "cbHabilitar"
+        Me.cbHabilitar.Size = New System.Drawing.Size(89, 18)
+        Me.cbHabilitar.TabIndex = 4
+        Me.cbHabilitar.Text = "Habilitar"
+        Me.cbHabilitar.UseVisualStyleBackColor = True
         '
         'lkNoexiste
         '
@@ -147,6 +167,7 @@ Partial Class FrmProveedores
         'GroupBox2
         '
         Me.GroupBox2.BackColor = System.Drawing.Color.MediumSeaGreen
+        Me.GroupBox2.Controls.Add(Me.btnGuardar)
         Me.GroupBox2.Controls.Add(Me.btnCancelar)
         Me.GroupBox2.Controls.Add(Me.btnEditar)
         Me.GroupBox2.Controls.Add(Me.btnNuevo)
@@ -212,6 +233,13 @@ Partial Class FrmProveedores
         Me.GroupBox1.TabIndex = 4
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Datos"
+        '
+        'txtMail
+        '
+        Me.txtMail.Location = New System.Drawing.Point(117, 223)
+        Me.txtMail.Name = "txtMail"
+        Me.txtMail.Size = New System.Drawing.Size(183, 22)
+        Me.txtMail.TabIndex = 15
         '
         'txtCelular
         '
@@ -355,39 +383,12 @@ Partial Class FrmProveedores
         '
         'btnGuardar
         '
-        Me.btnGuardar.Location = New System.Drawing.Point(127, 389)
+        Me.btnGuardar.Location = New System.Drawing.Point(117, 21)
         Me.btnGuardar.Name = "btnGuardar"
         Me.btnGuardar.Size = New System.Drawing.Size(75, 23)
         Me.btnGuardar.TabIndex = 3
         Me.btnGuardar.Text = "Guardar"
         Me.btnGuardar.UseVisualStyleBackColor = True
-        '
-        'txtMail
-        '
-        Me.txtMail.Location = New System.Drawing.Point(117, 223)
-        Me.txtMail.Name = "txtMail"
-        Me.txtMail.Size = New System.Drawing.Size(183, 22)
-        Me.txtMail.TabIndex = 15
-        '
-        'cbHabilitar
-        '
-        Me.cbHabilitar.AutoSize = True
-        Me.cbHabilitar.Location = New System.Drawing.Point(16, 60)
-        Me.cbHabilitar.Name = "cbHabilitar"
-        Me.cbHabilitar.Size = New System.Drawing.Size(89, 18)
-        Me.cbHabilitar.TabIndex = 4
-        Me.cbHabilitar.Text = "Habilitar"
-        Me.cbHabilitar.UseVisualStyleBackColor = True
-        '
-        'cbInhabilitar
-        '
-        Me.cbInhabilitar.AutoSize = True
-        Me.cbInhabilitar.Location = New System.Drawing.Point(154, 61)
-        Me.cbInhabilitar.Name = "cbInhabilitar"
-        Me.cbInhabilitar.Size = New System.Drawing.Size(103, 18)
-        Me.cbInhabilitar.TabIndex = 5
-        Me.cbInhabilitar.Text = "Inhabilitar"
-        Me.cbInhabilitar.UseVisualStyleBackColor = True
         '
         'FrmProveedores
         '
@@ -395,7 +396,6 @@ Partial Class FrmProveedores
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.SeaGreen
         Me.ClientSize = New System.Drawing.Size(703, 488)
-        Me.Controls.Add(Me.btnGuardar)
         Me.Controls.Add(Me.GroupBox4)
         Me.Controls.Add(Me.GroupBox3)
         Me.Controls.Add(Me.GroupBox2)
